@@ -1,4 +1,6 @@
-## Instruction of the files
+## Machine Learning & Pattern Recognition
+The repository contains 4 machine learning algorithms and necessary functions which are developed to be final project of machine learning & pattern recognition course in PoliTo. 
+
  * All the classifiers have its own python file.
  * Data preparation functions are in data_preparation_PCA_LDA file.
  * Split function is in split_data file.
@@ -7,7 +9,7 @@
  * Experiment file contains experiments (such as fusion models or results with best parameters) which are required by the mentor of course.
 
 
-## How to produce new experiments and see them
+## How to produce new experiments.
 All the classifiers and experiments has a basic guide.
 
     python project/<classifier_file>.py --help 
