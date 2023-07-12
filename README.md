@@ -8,7 +8,7 @@
 
 
 ## How to produce new experiments and see them
-All the classifier function has own help guide. you can write 
+All the classifiers and experiments has a basic guide.
 
     python project/<classifier_file>.py --help 
 
