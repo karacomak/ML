@@ -1,5 +1,5 @@
 ## Machine Learning & Pattern Recognition
-The repository contains 4 machine learning algorithms and necessary functions which are developed to be final project of machine learning & pattern recognition course in PoliTo. 
+The repository contains 4 machine learning algorithms and necessary functions which are developed to be final project of machine learning & pattern recognition course in PoliTo. (Only NumPy library  is used in development.)
 
  * All the classifiers have its own python file.
  * Data preparation functions are in data_preparation_PCA_LDA file.
