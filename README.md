@@ -1,8 +1,8 @@
 ## Instruction of the files
  * All the classifiers have its own python file.
- * All the preparation functions are in data_preparation_PCA_LDA file.
- * Splitting functions in splitData function
- * All the plot functions are in plottingFunctions
+ * Data preparation functions are in data_preparation_PCA_LDA file.
+ * Split function is in split_data file.
+ * Functions for visualization are in plotting_functions.
  * Functions to use in evaluation such as cost detection, ROC curve, Bayes Error plot are in the evaluation_functions file.
  * Experiment file contains experiments (such as fusion models or results with best parameters) which are required by the mentor of course.
 
