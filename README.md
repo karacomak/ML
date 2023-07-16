@@ -1,5 +1,5 @@
 # Machine Learning & Pattern Recognition
-The repository contains machine learning algorithms, dimension reduction techniques and necessary functions which are developed to be final project of machine learning & pattern recognition course in PoliTo. (Only NumPy library  is used in development.)
+The repository contains machine learning algorithms, dimension reduction techniques and necessary functions which are developed to be final project of machine learning & pattern recognition course in PoliTo. (Only NumPy library  was used in development.)
 
 ### The machine learning algorithms
 
